@@ -10,12 +10,16 @@ Some people want to support others in their growth and improvement.
 
 The dynamic between these two motives, it could be argued, is absolutely invaluable to our overall progress and growth as humans.
 
-With today’s technology - the foundational knowledge that serves this greater good can be shared feely.
+With today’s technology it is possible to ensure that the foundational knowledge that serves this greater good can be shared feely.
 
-We recognise that the delivery and application of this knowledge is time consuming, and thus a valid career pursuit - but, so is software development, and get it is entirely possible to become a successful programmer (and implement those things learn) by consuming entirely open source knowledge.
+We recognise that the delivery and application of this knowledge is time consuming, and thus a valid career pursuit - but, so is software development; and get it is entirely possible to become a successful programmer (and implement those things learned) by consuming entirely open source knowledge.
 
-This project attempts to contribute a similar value to those learning for themselves, and with the eventual aim of providing service to others.
+This project attempts to contribute a similar value to those learning for themselves, and who have the eventual aim of providing service to others.
 
 ## This Repo
 
 This repository will collect the documents that pertain to any formal organisation that forms from the body of work that is created.
+
+## Knowledge Base
+
+Our [Knowledge Base](https://github.com/open-opportunity/knowledge) is kept in a separate repository.
